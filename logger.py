@@ -12,7 +12,7 @@ TARGET_KEYWORDS = [
 POLLUTANTS = ["PM2.5", "PM10", "NO", "NO2", "NOx", "NH3", "SO2", "CO", "Ozone"]
 API_URL = "https://airquality.cpcb.gov.in/caaqms/iit_rss_feed_with_coordinates"
 
-# Ensure output folder
+# Ensure output folder exists
 os.makedirs("output", exist_ok=True)
 
 def matches(name):
@@ -29,12 +29,6 @@ def extract(raw):
 
 def run():
     r = requests.get(API_URL).json()
-    
-    now = datetime.utcnow()
-    ts = now.strftime("%Y-%m-%dT%H:%M:%SZ")  # full timestamp
-    date = now.strftime("%Y-%m-%d")
-    time = now.strftime("%H:%M:%S")
-    
     records = []
 
     for st in sum((city["stationsInCity"]
@@ -42,6 +36,17 @@ def run():
                    for city in state["citiesInState"]), []):
         name = st["stationName"]
         if matches(name):
+            # handle date and time from lastUpdate
+            api_time = st.get("lastUpdate", "")
+            if api_time:
+                dt = datetime.strptime(api_time, "%d-%m-%Y %H:%M:%S")
+                date = dt.strftime("%Y-%m-%d")
+                time = dt.strftime("%H:%M:%S")
+            else:
+                now = datetime.utcnow()
+                date = now.strftime("%Y-%m-%d")
+                time = now.strftime("%H:%M:%S")
+
             row = {
                 "location": name,
                 "date": date,
@@ -58,14 +63,19 @@ def run():
 
     # write JSON
     with open("output/data.json", "w", encoding="utf-8") as f:
-        json.dump({"last_updated": ts, "data": records}, f, indent=2)
+        json.dump({
+            "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "data": records
+        }, f, indent=2)
 
-    # also write CSV
+    # write CSV
     with open("output/data.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["location", "date", "time", *POLLUTANTS, "predominant", "AQI"])
         for r in records:
-            w.writerow([r["location"], r["date"], r["time"]] + [r[p] for p in POLLUTANTS] + [r["predominant"], r["AQI"]])
+            w.writerow([r["location"], r["date"], r["time"]] +
+                       [r[p] for p in POLLUTANTS] +
+                       [r["predominant"], r["AQI"]])
 
 if __name__ == "__main__":
     run()
