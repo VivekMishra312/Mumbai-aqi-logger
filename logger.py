@@ -1,6 +1,6 @@
-import requests, json, os
+import requests, json, os, csv
 from datetime import datetime
-import csv
+from pytz import timezone
 
 # --- config ---
 TARGET_KEYWORDS = [
@@ -12,9 +12,10 @@ TARGET_KEYWORDS = [
 ]
 POLLUTANTS = ["PM2.5", "PM10", "NO", "NO2", "NOx", "NH3", "SO2", "CO", "Ozone"]
 API_URL = "https://airquality.cpcb.gov.in/caaqms/iit_rss_feed_with_coordinates"
+OUTPUT_DIR = "output"
+IST = timezone('Asia/Kolkata')
 
-# Ensure output folder exists
-os.makedirs("output", exist_ok=True)
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 def matches(name):
     return any(k.lower() in name.lower() for k in TARGET_KEYWORDS)
@@ -28,49 +29,70 @@ def extract(raw):
                 d[p] = item.get("avg", "NA")
     return [d[p] for p in POLLUTANTS]
 
+def sanitize_filename(name):
+    return name.replace(",", "").replace(".", "").replace(" ", "_")
+
 def run():
     r = requests.get(API_URL).json()
     records = []
 
-    for st in sum((city["stationsInCity"]
-                   for state in r["country"]
-                   for city in state["citiesInState"]), []):
+    for st in sum((city["stationsInCity"] for state in r["country"] for city in state["citiesInState"]), []):
         name = st["stationName"]
         if matches(name):
-            # handle date and time from lastUpdate
             api_time = st.get("lastUpdate", "")
             if api_time:
                 dt = datetime.strptime(api_time, "%d-%m-%Y %H:%M:%S")
-                date = dt.strftime("%Y-%m-%d")
-                time = dt.strftime("%H:%M:%S")
+                dt = timezone("UTC").localize(dt).astimezone(IST)
             else:
-                now = datetime.utcnow()
-                date = now.strftime("%Y-%m-%d")
-                time = now.strftime("%H:%M:%S")
+                dt = datetime.utcnow()
+                dt = timezone("UTC").localize(dt).astimezone(IST)
+
+            date = dt.strftime("%Y-%m-%d")
+            time = dt.strftime("%H:%M:%S")
+            timestamp = dt.strftime("%Y%m%d_%H%M%S")
 
             row = {
                 "location": name,
                 "date": date,
-                "time": time,
+                "time": time
             }
-            # add pollutants
             vals = extract(st.get("pollutants", []))
             for p, val in zip(POLLUTANTS, vals):
                 row[p] = val
-            # add meta
+
             row["predominant"] = st.get("predominantParameter", "NA")
             row["AQI"] = st.get("airQualityIndexValue", "NA")
             records.append(row)
 
-    # write JSON
-    with open("output/data.json", "w", encoding="utf-8") as f:
+            # Save to individual folder
+            folder_name = os.path.join(OUTPUT_DIR, sanitize_filename(name))
+            os.makedirs(folder_name, exist_ok=True)
+
+            # Append to per-location CSV
+            csv_file = os.path.join(folder_name, f"{sanitize_filename(name)}.csv")
+            file_exists = os.path.exists(csv_file)
+            with open(csv_file, "a", newline="", encoding="utf-8") as f:
+                w = csv.writer(f)
+                if not file_exists:
+                    w.writerow(["location", "date", "time", *POLLUTANTS, "predominant", "AQI"])
+                w.writerow([row["location"], row["date"], row["time"]] +
+                           [row[p] for p in POLLUTANTS] +
+                           [row["predominant"], row["AQI"]])
+
+            # Save JSON snapshot
+            json_file = os.path.join(folder_name, f"{timestamp}.json")
+            with open(json_file, "w", encoding="utf-8") as f:
+                json.dump(row, f, indent=2)
+
+    # Save master JSON
+    with open(os.path.join(OUTPUT_DIR, "data.json"), "w", encoding="utf-8") as f:
         json.dump({
-            "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "last_updated": datetime.now(IST).strftime("%Y-%m-%dT%H:%M:%S"),
             "data": records
         }, f, indent=2)
 
-    # write CSV
-    with open("output/data.csv", "w", newline="", encoding="utf-8") as f:
+    # Save master CSV
+    with open(os.path.join(OUTPUT_DIR, "data.csv"), "w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["location", "date", "time", *POLLUTANTS, "predominant", "AQI"])
         for r in records:
