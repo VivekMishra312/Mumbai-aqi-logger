@@ -41,11 +41,13 @@ def run():
         if matches(name):
             api_time = st.get("lastUpdate", "")
             if api_time:
+                # Parse the time as UTC without converting to IST
                 dt = datetime.strptime(api_time, "%d-%m-%Y %H:%M:%S")
-                dt = timezone("UTC").localize(dt).astimezone(IST)
+                dt = timezone("UTC").localize(dt)  # Keep as UTC
             else:
+                # Get current UTC time if "lastUpdate" is missing
                 dt = datetime.utcnow()
-                dt = timezone("UTC").localize(dt).astimezone(IST)
+                dt = timezone("UTC").localize(dt)  # Keep as UTC
 
             date = dt.strftime("%Y-%m-%d")
             time = dt.strftime("%H:%M:%S")
@@ -87,7 +89,7 @@ def run():
     # Save master JSON
     with open(os.path.join(OUTPUT_DIR, "data.json"), "w", encoding="utf-8") as f:
         json.dump({
-            "last_updated": datetime.now(IST).strftime("%Y-%m-%dT%H:%M:%S"),
+            "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),  # UTC last updated
             "data": records
         }, f, indent=2)
 
