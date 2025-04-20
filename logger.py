@@ -4,10 +4,11 @@ import csv
 
 # --- config ---
 TARGET_KEYWORDS = [
-    "Worli", "Kurla", "Malad West", "Mazgaon", "Chembur", "Navy",
-    "Powai", "Siddharth", "Sion", "Byculla", "Vile", "Kherwadi",
-    "Borivali", "Chakala", "Chhatrapati", "Colaba", "Deonar",
-    "Shivaji Nagar", "Kandivali", "Khindipada"
+    "Worli", "Bandra Kurla Complex, Mumbai - MPCB", "Malad West, Mumbai - iitm", "Mazgaon",
+    "chembur", "Navy", "Powai", "Siddharth", "Sion Mumbai MPCB", "kurla", 
+    "byculla", "Vile", "Kherwadi_Bandra East", "Borivali", "Chakala", 
+    "Chhatrapati Shivaji Intl", "Colaba", "Deonar Mumbai ITM", "Shivaji Nagar, Mumbai", 
+    "Kandivali East", "Khindipada", "Bandra Kurla Complex, Mumbai - IITM"
 ]
 POLLUTANTS = ["PM2.5", "PM10", "NO", "NO2", "NOx", "NH3", "SO2", "CO", "Ozone"]
 API_URL = "https://airquality.cpcb.gov.in/caaqms/iit_rss_feed_with_coordinates"
