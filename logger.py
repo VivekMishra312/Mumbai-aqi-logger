@@ -1,6 +1,7 @@
 import requests, json, os, csv
 from datetime import datetime
 from pytz import timezone
+from datetime import timedelta
 
 # --- config ---
 TARGET_KEYWORDS = [
@@ -88,8 +89,10 @@ def run():
 
     # Save master JSON
     with open(os.path.join(OUTPUT_DIR, "data.json"), "w", encoding="utf-8") as f:
+        # Calculate last_updated in UTC and add 5 hours 30 minutes
+        last_updated = datetime.utcnow() + timedelta(hours=5, minutes=30)
         json.dump({
-            "last_updated": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),  # UTC last updated
+            "last_updated": last_updated.strftime("%Y-%m-%dT%H:%M:%S"),  # Updated to IST-equivalent time
             "data": records
         }, f, indent=2)
 
