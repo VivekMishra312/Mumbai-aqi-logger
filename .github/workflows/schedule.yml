@@ -1,31 +1,35 @@
-name: Hourly AQI Logger
+name: AQI Logger
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs at 35th minute every hour UTC
-  workflow_dispatch:      # ← This enables the "Run workflow" button manually
+    - cron: '0 * * * *'  # Every hour (UTC time)
+  workflow_dispatch:      # Allow manual run
 
 jobs:
-  log:
+  run-logger:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.x"
+          python-version: '3.11'
 
-      - name: Install requests
-        run: pip install requests
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Run logger
+      - name: Run AQI Logger
         run: python logger.py
 
-      - name: Commit & push data
+      - name: Commit updated files
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add output/data.json output/data.csv
-          git commit -m "Hourly update $(date -u +'%Y-%m-%dT%H:%MZ')" || echo "No changes"
+          git add output/
+          git commit -m "🔄 Update AQI logs"
           git push
+        continue-on-error: true  # Avoid failing if no changes
