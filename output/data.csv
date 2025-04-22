@@ -1,7 +1,6 @@
 location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Kurla, Mumbai - MPCB",2025-04-23,02:00:00,NA,128,NA,4,NA,1,NA,7,28,PM10,128
 "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-04-23,02:00:00,51,86,NA,28,NA,1,20,23,7,PM10,86
-"Powai, Mumbai - MPCB",2025-04-23,02:00:00,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 "Vile Parle West, Mumbai - MPCB",2025-04-23,02:00:00,37,93,NA,72,NA,3,36,5,6,PM10,93
 "Mazgaon, Mumbai - IITM",2025-04-23,02:00:00,58,106,NA,56,NA,8,4,39,50,PM10,106
 "Bandra Kurla Complex, Mumbai - IITM",2025-04-23,02:00:00,37,120,NA,45,NA,2,3,73,4,PM10,120

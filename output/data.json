@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-04-23T02:43:28",
+  "last_updated": "2025-04-23T03:43:14",
   "data": [
     {
       "location": "Kurla, Mumbai - MPCB",
@@ -32,22 +32,6 @@
       "Ozone": 7,
       "predominant": "PM10",
       "AQI": 86
-    },
-    {
-      "location": "Powai, Mumbai - MPCB",
-      "date": "2025-04-23",
-      "time": "02:00:00",
-      "PM2.5": "NA",
-      "PM10": "NA",
-      "NO": "NA",
-      "NO2": "NA",
-      "NOx": "NA",
-      "NH3": "NA",
-      "SO2": "NA",
-      "CO": "NA",
-      "Ozone": "NA",
-      "predominant": "NA",
-      "AQI": "NA"
     },
     {
       "location": "Vile Parle West, Mumbai - MPCB",
