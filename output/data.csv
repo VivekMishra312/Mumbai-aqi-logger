@@ -1,15 +1,15 @@
 location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
-"Kurla, Mumbai - MPCB",2025-04-25,11:00:00,84,102,NA,3,NA,1,NA,4,28,PM10,102
-"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-04-25,11:00:00,43,76,NA,27,NA,1,20,22,7,PM10,76
-"Vile Parle West, Mumbai - MPCB",2025-04-25,11:00:00,23,57,NA,72,NA,3,36,7,7,NO2,72
-"Borivali East, Mumbai - MPCB",2025-04-25,11:00:00,31,57,NA,12,NA,1,8,5,NA,PM10,57
-"Mazgaon, Mumbai - IITM",2025-04-25,11:00:00,31,64,NA,52,NA,7,NA,39,25,PM10,64
-"Bandra Kurla Complex, Mumbai - IITM",2025-04-25,11:00:00,36,74,NA,32,NA,3,6,63,4,PM10,74
-"Borivali East, Mumbai - IITM",2025-04-25,11:00:00,49,68,NA,43,NA,5,NA,28,14,PM10,68
-"Malad West, Mumbai - IITM",2025-04-25,11:00:00,38,66,NA,53,NA,6,7,7,16,PM10,66
-"Navy Nagar-Colaba, Mumbai - IITM",2025-04-25,11:00:00,23,69,NA,35,NA,3,20,54,33,PM10,69
-"Khindipada-Bhandup West, Mumbai - IITM",2025-04-25,11:00:00,37,60,NA,20,NA,2,13,78,23,CO,78
-"Bandra Kurla Complex, Mumbai - MPCB",2025-04-25,11:00:00,66,107,NA,27,NA,7,2,16,25,PM10,107
-"Chembur, Mumbai - MPCB",2025-04-25,11:00:00,37,30,NA,25,NA,7,6,32,23,PM2.5,37
-"Kherwadi_Bandra East, Mumbai - MPCB",2025-04-25,11:00:00,69,90,NA,19,NA,4,2,15,68,PM10,90
-"Byculla, Mumbai - BMC",2025-04-25,11:00:00,28,66,NA,22,NA,5,NA,9,26,PM10,66
+"Kurla, Mumbai - MPCB",2025-04-25,12:00:00,83,102,NA,3,NA,1,NA,4,28,PM10,102
+"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-04-25,12:00:00,43,76,NA,27,NA,1,20,22,7,PM10,76
+"Vile Parle West, Mumbai - MPCB",2025-04-25,12:00:00,23,57,NA,72,NA,3,36,7,6,NO2,72
+"Borivali East, Mumbai - MPCB",2025-04-25,12:00:00,31,55,NA,11,NA,1,8,5,NA,PM10,55
+"Mazgaon, Mumbai - IITM",2025-04-25,12:00:00,31,63,NA,51,NA,7,NA,35,27,PM10,63
+"Bandra Kurla Complex, Mumbai - IITM",2025-04-25,12:00:00,35,73,NA,30,NA,3,6,63,5,PM10,73
+"Borivali East, Mumbai - IITM",2025-04-25,12:00:00,48,66,NA,41,NA,5,NA,31,16,PM10,66
+"Malad West, Mumbai - IITM",2025-04-25,12:00:00,38,65,NA,53,NA,6,7,9,18,PM10,65
+"Navy Nagar-Colaba, Mumbai - IITM",2025-04-25,12:00:00,22,68,NA,35,NA,3,20,52,35,PM10,68
+"Khindipada-Bhandup West, Mumbai - IITM",2025-04-25,12:00:00,36,59,NA,20,NA,2,13,80,30,CO,80
+"Bandra Kurla Complex, Mumbai - MPCB",2025-04-25,12:00:00,61,106,NA,27,NA,7,2,15,28,PM10,106
+"Chembur, Mumbai - MPCB",2025-04-25,12:00:00,36,30,NA,25,NA,8,6,32,26,PM2.5,36
+"Kherwadi_Bandra East, Mumbai - MPCB",2025-04-25,12:00:00,69,89,NA,19,NA,4,2,15,64,PM10,89
+"Byculla, Mumbai - BMC",2025-04-25,12:00:00,27,66,NA,22,NA,5,NA,10,27,PM10,66
