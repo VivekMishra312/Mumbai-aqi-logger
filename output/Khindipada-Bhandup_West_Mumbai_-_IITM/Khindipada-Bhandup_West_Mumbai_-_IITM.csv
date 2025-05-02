@@ -257,3 +257,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Khindipada-Bhandup West, Mumbai - IITM",2025-05-02,22:00:00,30,47,NA,15,NA,2,10,61,50,CO,61
 "Khindipada-Bhandup West, Mumbai - IITM",2025-05-02,23:00:00,29,45,NA,15,NA,1,10,60,44,CO,60
 "Khindipada-Bhandup West, Mumbai - IITM",2025-05-03,00:00:00,29,46,NA,15,NA,1,10,60,39,CO,60
+"Khindipada-Bhandup West, Mumbai - IITM",2025-05-03,01:00:00,29,46,NA,16,NA,1,10,60,33,CO,60
