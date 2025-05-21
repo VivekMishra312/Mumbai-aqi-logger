@@ -1,0 +1,16 @@
+{
+  "location": "Mazgaon, Mumbai - IITM",
+  "date": "2025-05-22",
+  "time": "03:00:00",
+  "PM2.5": 38,
+  "PM10": 46,
+  "NO": "NA",
+  "NO2": 71,
+  "NOx": "NA",
+  "NH3": 17,
+  "SO2": 3,
+  "CO": 23,
+  "Ozone": 42,
+  "predominant": "NO2",
+  "AQI": 71
+}
