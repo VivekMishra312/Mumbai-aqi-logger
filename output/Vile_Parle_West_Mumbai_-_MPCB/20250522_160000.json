@@ -1,0 +1,16 @@
+{
+  "location": "Vile Parle West, Mumbai - MPCB",
+  "date": "2025-05-22",
+  "time": "16:00:00",
+  "PM2.5": 17,
+  "PM10": 45,
+  "NO": "NA",
+  "NO2": 55,
+  "NOx": "NA",
+  "NH3": 2,
+  "SO2": 36,
+  "CO": 3,
+  "Ozone": 5,
+  "predominant": "NO2",
+  "AQI": 55
+}
