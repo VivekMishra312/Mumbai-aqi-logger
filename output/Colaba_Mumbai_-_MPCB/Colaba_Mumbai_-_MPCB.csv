@@ -227,3 +227,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Colaba, Mumbai - MPCB",2025-05-23,22:00:00,30,NA,NA,28,NA,3,NA,27,11,PM2.5,30
 "Colaba, Mumbai - MPCB",2025-05-23,23:00:00,30,NA,NA,28,NA,3,NA,27,11,PM2.5,30
 "Colaba, Mumbai - MPCB",2025-05-24,00:00:00,17,NA,NA,28,NA,3,NA,27,11,NO2,28
+"Colaba, Mumbai - MPCB",2025-05-24,01:00:00,18,NA,NA,28,NA,3,NA,28,11,NO2,28
