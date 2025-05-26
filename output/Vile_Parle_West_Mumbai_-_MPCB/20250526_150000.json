@@ -3,7 +3,7 @@
   "date": "2025-05-26",
   "time": "15:00:00",
   "PM2.5": 30,
-  "PM10": 218,
+  "PM10": "NA",
   "NO": "NA",
   "NO2": 54,
   "NOx": "NA",
@@ -11,6 +11,6 @@
   "SO2": 37,
   "CO": 10,
   "Ozone": 5,
-  "predominant": "PM10",
-  "AQI": 218
+  "predominant": "NO2",
+  "AQI": 54
 }

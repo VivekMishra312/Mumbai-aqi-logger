@@ -1,21 +1,21 @@
 {
-  "last_updated": "2025-05-26T16:41:39",
+  "last_updated": "2025-05-26T17:58:55",
   "data": [
     {
       "location": "Kurla, Mumbai - MPCB",
       "date": "2025-05-26",
       "time": "15:00:00",
       "PM2.5": 55,
-      "PM10": 66,
+      "PM10": "NA",
       "NO": "NA",
       "NO2": 4,
       "NOx": "NA",
       "NH3": 1,
-      "SO2": 37,
-      "CO": 5,
-      "Ozone": 28,
-      "predominant": "PM10",
-      "AQI": 66
+      "SO2": "NA",
+      "CO": "NA",
+      "Ozone": "NA",
+      "predominant": "PM2.5",
+      "AQI": 55
     },
     {
       "location": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",
@@ -54,7 +54,7 @@
       "date": "2025-05-26",
       "time": "15:00:00",
       "PM2.5": 30,
-      "PM10": 218,
+      "PM10": "NA",
       "NO": "NA",
       "NO2": 54,
       "NOx": "NA",
@@ -62,8 +62,8 @@
       "SO2": 37,
       "CO": 10,
       "Ozone": 5,
-      "predominant": "PM10",
-      "AQI": 218
+      "predominant": "NO2",
+      "AQI": 54
     },
     {
       "location": "Borivali East, Mumbai - MPCB",
@@ -187,7 +187,7 @@
       "NO2": 97,
       "NOx": "NA",
       "NH3": 4,
-      "SO2": 6,
+      "SO2": "NA",
       "CO": 37,
       "Ozone": "NA",
       "predominant": "NO2",
@@ -240,22 +240,6 @@
       "Ozone": 26,
       "predominant": "PM10",
       "AQI": 46
-    },
-    {
-      "location": "Kherwadi_Bandra East, Mumbai - MPCB",
-      "date": "2025-05-26",
-      "time": "15:00:00",
-      "PM2.5": 35,
-      "PM10": 63,
-      "NO": "NA",
-      "NO2": 38,
-      "NOx": "NA",
-      "NH3": 5,
-      "SO2": 1,
-      "CO": 18,
-      "Ozone": 10,
-      "predominant": "PM10",
-      "AQI": 63
     },
     {
       "location": "Byculla, Mumbai - BMC",
