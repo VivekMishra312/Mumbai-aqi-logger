@@ -2,15 +2,15 @@
   "location": "Kurla, Mumbai - MPCB",
   "date": "2025-05-26",
   "time": "15:00:00",
-  "PM2.5": 55,
-  "PM10": "NA",
+  "PM2.5": 53,
+  "PM10": 63,
   "NO": "NA",
   "NO2": 4,
   "NOx": "NA",
   "NH3": 1,
-  "SO2": "NA",
-  "CO": "NA",
-  "Ozone": "NA",
-  "predominant": "PM2.5",
-  "AQI": 55
+  "SO2": 37,
+  "CO": 4,
+  "Ozone": 28,
+  "predominant": "PM10",
+  "AQI": 63
 }

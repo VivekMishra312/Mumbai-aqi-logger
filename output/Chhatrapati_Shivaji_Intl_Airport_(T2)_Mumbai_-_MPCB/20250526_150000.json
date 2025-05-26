@@ -2,15 +2,15 @@
   "location": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",
   "date": "2025-05-26",
   "time": "15:00:00",
-  "PM2.5": 41,
-  "PM10": 73,
+  "PM2.5": 39,
+  "PM10": 71,
   "NO": "NA",
-  "NO2": 23,
+  "NO2": 20,
   "NOx": "NA",
   "NH3": 1,
-  "SO2": 20,
-  "CO": 15,
+  "SO2": 21,
+  "CO": 14,
   "Ozone": 7,
   "predominant": "PM10",
-  "AQI": 73
+  "AQI": 71
 }
