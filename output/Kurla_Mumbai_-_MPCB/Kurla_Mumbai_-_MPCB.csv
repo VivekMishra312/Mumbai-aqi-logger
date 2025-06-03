@@ -825,3 +825,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Kurla, Mumbai - MPCB",2025-06-03,19:00:00,74,93,NA,3,NA,1,37,3,28,PM10,93
 "Kurla, Mumbai - MPCB",2025-06-03,20:00:00,74,93,NA,3,NA,1,37,3,28,PM10,93
 "Kurla, Mumbai - MPCB",2025-06-03,21:00:00,74,92,NA,3,NA,1,37,4,28,PM10,92
+"Kurla, Mumbai - MPCB",2025-06-03,22:00:00,74,94,NA,3,NA,1,37,4,28,PM10,94
