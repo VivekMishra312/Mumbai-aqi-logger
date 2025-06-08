@@ -1012,3 +1012,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Vile Parle West, Mumbai - MPCB",2025-06-08,22:00:00,28,60,NA,55,NA,2,38,NA,5,PM10,60
 "Vile Parle West, Mumbai - MPCB",2025-06-08,23:00:00,28,59,NA,55,NA,2,38,NA,5,PM10,59
 "Vile Parle West, Mumbai - MPCB",2025-06-09,00:00:00,27,58,NA,55,NA,2,38,NA,5,PM10,58
+"Vile Parle West, Mumbai - MPCB",2025-06-09,01:00:00,26,55,NA,55,NA,2,38,NA,5,PM10,55
