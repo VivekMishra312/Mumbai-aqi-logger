@@ -838,3 +838,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Powai, Mumbai - MPCB",2025-06-10,19:00:00,28,53,NA,7,NA,4,21,18,9,PM10,53
 "Powai, Mumbai - MPCB",2025-06-10,20:00:00,27,52,NA,7,NA,4,21,18,9,PM10,52
 "Powai, Mumbai - MPCB",2025-06-10,21:00:00,27,52,NA,7,NA,4,21,18,9,PM10,52
+"Powai, Mumbai - MPCB",2025-06-10,22:00:00,26,51,NA,7,NA,4,21,18,9,PM10,51
