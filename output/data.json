@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-07-22T12:49:10",
+  "last_updated": "2025-07-22T13:52:32",
   "data": [
     {
       "location": "Kurla, Mumbai - MPCB",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": 43,
       "PM10": 48,
       "NO": "NA",
@@ -20,7 +20,7 @@
     {
       "location": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": 34,
       "PM10": 64,
       "NO": "NA",
@@ -36,9 +36,9 @@
     {
       "location": "Powai, Mumbai - MPCB",
       "date": "2025-07-22",
-      "time": "12:00:00",
-      "PM2.5": 21,
-      "PM10": 45,
+      "time": "13:00:00",
+      "PM2.5": 20,
+      "PM10": 44,
       "NO": "NA",
       "NO2": 7,
       "NOx": "NA",
@@ -47,12 +47,12 @@
       "CO": 22,
       "Ozone": 9,
       "predominant": "PM10",
-      "AQI": 45
+      "AQI": 44
     },
     {
       "location": "Borivali East, Mumbai - MPCB",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": 20,
       "PM10": 29,
       "NO": "NA",
@@ -68,7 +68,7 @@
     {
       "location": "Worli, Mumbai - MPCB",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": 61,
       "PM10": 60,
       "NO": "NA",
@@ -76,7 +76,7 @@
       "NOx": "NA",
       "NH3": 1,
       "SO2": 20,
-      "CO": 10,
+      "CO": 9,
       "Ozone": 20,
       "predominant": "PM2.5",
       "AQI": 61
@@ -84,7 +84,7 @@
     {
       "location": "Colaba, Mumbai - MPCB",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": 18,
       "PM10": 41,
       "NO": "NA",
@@ -100,7 +100,7 @@
     {
       "location": "Navy Nagar-Colaba, Mumbai - IITM",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": 26,
       "PM10": 42,
       "NO": "NA",
@@ -108,7 +108,7 @@
       "NOx": "NA",
       "NH3": 4,
       "SO2": 9,
-      "CO": 29,
+      "CO": 30,
       "Ozone": 16,
       "predominant": "PM10",
       "AQI": 42
@@ -116,23 +116,23 @@
     {
       "location": "Khindipada-Bhandup West, Mumbai - IITM",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": "NA",
-      "PM10": 19,
+      "PM10": 18,
       "NO": "NA",
       "NO2": 24,
       "NOx": "NA",
       "NH3": 2,
       "SO2": 8,
       "CO": 18,
-      "Ozone": 15,
+      "Ozone": 19,
       "predominant": "NO2",
       "AQI": 24
     },
     {
       "location": "Kandivali East, Mumbai - MPCB",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": 34,
       "PM10": 42,
       "NO": "NA",
@@ -148,50 +148,50 @@
     {
       "location": "Siddharth Nagar-Worli, Mumbai - IITM",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": 23,
       "PM10": 23,
       "NO": "NA",
-      "NO2": 42,
+      "NO2": 43,
       "NOx": "NA",
       "NH3": 8,
       "SO2": "NA",
       "CO": 34,
       "Ozone": 20,
       "predominant": "NO2",
-      "AQI": 42
+      "AQI": 43
     },
     {
       "location": "Kherwadi_Bandra East, Mumbai - MPCB",
       "date": "2025-07-22",
-      "time": "12:00:00",
+      "time": "13:00:00",
       "PM2.5": 21,
-      "PM10": 32,
+      "PM10": 31,
       "NO": "NA",
-      "NO2": 13,
+      "NO2": 14,
       "NOx": "NA",
       "NH3": 6,
-      "SO2": 2,
-      "CO": 22,
-      "Ozone": 9,
+      "SO2": 3,
+      "CO": 20,
+      "Ozone": 14,
       "predominant": "PM10",
-      "AQI": 32
+      "AQI": 31
     },
     {
       "location": "Shivaji Nagar, Mumbai - BMC",
       "date": "2025-07-22",
-      "time": "12:00:00",
-      "PM2.5": 29,
+      "time": "13:00:00",
+      "PM2.5": 30,
       "PM10": 27,
       "NO": "NA",
       "NO2": 7,
       "NOx": "NA",
       "NH3": 2,
       "SO2": 4,
-      "CO": 17,
-      "Ozone": 3,
+      "CO": 22,
+      "Ozone": 4,
       "predominant": "PM2.5",
-      "AQI": 29
+      "AQI": 30
     }
   ]
 }
