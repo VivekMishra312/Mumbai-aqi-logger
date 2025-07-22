@@ -1,20 +1,20 @@
 location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
-"Kurla, Mumbai - MPCB",2025-07-23,00:00:00,44,50,NA,4,NA,1,37,6,28,PM10,50
-"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-23,00:00:00,35,64,NA,25,NA,1,20,19,7,PM10,64
-"Powai, Mumbai - MPCB",2025-07-23,00:00:00,19,43,NA,7,NA,3,24,22,9,PM10,43
-"Borivali East, Mumbai - MPCB",2025-07-23,00:00:00,20,30,NA,4,NA,1,6,4,22,PM10,30
-"Worli, Mumbai - MPCB",2025-07-23,00:00:00,60,59,NA,8,NA,1,20,13,20,PM2.5,60
-"Colaba, Mumbai - MPCB",2025-07-23,00:00:00,17,38,NA,22,NA,3,NA,22,10,PM10,38
-"Mazgaon, Mumbai - IITM",2025-07-23,00:00:00,NA,NA,NA,NA,NA,NA,NA,39,10,NA,NA
-"Borivali East, Mumbai - IITM",2025-07-23,00:00:00,NA,NA,NA,NA,NA,NA,NA,61,4,NA,NA
-"Malad West, Mumbai - IITM",2025-07-23,00:00:00,NA,NA,NA,NA,NA,NA,NA,54,7,NA,NA
-"Navy Nagar-Colaba, Mumbai - IITM",2025-07-23,00:00:00,24,42,NA,15,NA,3,9,31,20,PM10,42
-"Chakala-Andheri East, Mumbai - IITM",2025-07-23,00:00:00,NA,NA,NA,NA,NA,NA,NA,19,14,NA,NA
-"Khindipada-Bhandup West, Mumbai - IITM",2025-07-23,00:00:00,NA,15,NA,21,NA,2,7,17,19,NO2,21
-"Kandivali East, Mumbai - MPCB",2025-07-23,00:00:00,33,41,NA,8,NA,1,NA,22,NA,PM10,41
-"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-23,00:00:00,NA,28,NA,40,NA,7,NA,9,29,NO2,40
-"Bandra Kurla Complex, Mumbai - MPCB",2025-07-23,00:00:00,NA,NA,NA,NA,NA,NA,NA,21,10,NA,NA
-"Chembur, Mumbai - MPCB",2025-07-23,00:00:00,NA,NA,NA,NA,NA,NA,NA,33,14,NA,NA
-"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-23,00:00:00,20,30,NA,25,NA,5,3,2,18,PM10,30
-"Byculla, Mumbai - BMC",2025-07-23,00:00:00,NA,NA,NA,NA,NA,NA,NA,10,15,NA,NA
-"Shivaji Nagar, Mumbai - BMC",2025-07-23,00:00:00,31,30,NA,7,NA,2,4,19,7,PM2.5,31
+"Kurla, Mumbai - MPCB",2025-07-23,01:00:00,44,50,NA,4,NA,1,37,6,28,PM10,50
+"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-23,01:00:00,35,64,NA,25,NA,1,20,20,7,PM10,64
+"Powai, Mumbai - MPCB",2025-07-23,01:00:00,19,42,NA,7,NA,3,24,21,9,PM10,42
+"Borivali East, Mumbai - MPCB",2025-07-23,01:00:00,20,30,NA,4,NA,1,7,4,22,PM10,30
+"Worli, Mumbai - MPCB",2025-07-23,01:00:00,60,59,NA,8,NA,1,20,12,20,PM2.5,60
+"Colaba, Mumbai - MPCB",2025-07-23,01:00:00,17,37,NA,22,NA,3,NA,22,10,PM10,37
+"Mazgaon, Mumbai - IITM",2025-07-23,01:00:00,NA,NA,NA,NA,NA,NA,NA,36,10,NA,NA
+"Borivali East, Mumbai - IITM",2025-07-23,01:00:00,NA,NA,NA,NA,NA,NA,NA,63,3,NA,NA
+"Malad West, Mumbai - IITM",2025-07-23,01:00:00,NA,NA,NA,NA,NA,NA,NA,54,6,NA,NA
+"Navy Nagar-Colaba, Mumbai - IITM",2025-07-23,01:00:00,24,41,NA,15,NA,3,9,30,20,PM10,41
+"Chakala-Andheri East, Mumbai - IITM",2025-07-23,01:00:00,NA,NA,NA,NA,NA,NA,NA,19,12,NA,NA
+"Khindipada-Bhandup West, Mumbai - IITM",2025-07-23,01:00:00,NA,14,NA,21,NA,2,7,17,18,NO2,21
+"Kandivali East, Mumbai - MPCB",2025-07-23,01:00:00,33,40,NA,8,NA,1,NA,21,NA,PM10,40
+"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-23,01:00:00,NA,28,NA,40,NA,7,NA,6,28,NO2,40
+"Bandra Kurla Complex, Mumbai - MPCB",2025-07-23,01:00:00,NA,NA,NA,NA,NA,NA,NA,22,9,NA,NA
+"Chembur, Mumbai - MPCB",2025-07-23,01:00:00,NA,NA,NA,NA,NA,NA,NA,33,12,NA,NA
+"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-23,01:00:00,20,30,NA,26,NA,5,3,6,13,PM10,30
+"Byculla, Mumbai - BMC",2025-07-23,01:00:00,NA,NA,NA,NA,NA,NA,NA,11,15,NA,NA
+"Shivaji Nagar, Mumbai - BMC",2025-07-23,01:00:00,30,30,NA,7,NA,2,4,20,7,PM2.5,30
