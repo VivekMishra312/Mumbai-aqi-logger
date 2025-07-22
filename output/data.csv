@@ -1,13 +1,13 @@
 location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
-"Kurla, Mumbai - MPCB",2025-07-22,14:00:00,44,49,NA,4,NA,1,37,6,28,PM10,49
-"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-22,14:00:00,35,64,NA,26,NA,1,20,20,7,PM10,64
-"Powai, Mumbai - MPCB",2025-07-22,14:00:00,20,44,NA,7,NA,4,24,22,9,PM10,44
-"Borivali East, Mumbai - MPCB",2025-07-22,14:00:00,20,29,NA,3,NA,1,7,4,23,PM10,29
-"Worli, Mumbai - MPCB",2025-07-22,14:00:00,61,60,NA,7,NA,1,20,9,20,PM2.5,61
-"Colaba, Mumbai - MPCB",2025-07-22,14:00:00,17,41,NA,22,NA,3,NA,22,10,PM10,41
-"Navy Nagar-Colaba, Mumbai - IITM",2025-07-22,14:00:00,25,41,NA,17,NA,4,9,31,16,PM10,41
-"Khindipada-Bhandup West, Mumbai - IITM",2025-07-22,14:00:00,NA,18,NA,24,NA,2,8,18,20,NO2,24
-"Kandivali East, Mumbai - MPCB",2025-07-22,14:00:00,34,42,NA,8,NA,1,NA,32,NA,PM10,42
-"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-22,14:00:00,23,24,NA,43,NA,8,NA,33,20,NO2,43
-"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-22,14:00:00,21,32,NA,15,NA,6,3,19,18,PM10,32
-"Shivaji Nagar, Mumbai - BMC",2025-07-22,14:00:00,31,28,NA,7,NA,2,4,25,5,PM2.5,31
+"Kurla, Mumbai - MPCB",2025-07-22,15:00:00,44,50,NA,4,NA,1,37,6,28,PM10,50
+"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2025-07-22,15:00:00,35,64,NA,26,NA,1,20,20,7,PM10,64
+"Powai, Mumbai - MPCB",2025-07-22,15:00:00,20,44,NA,7,NA,4,24,22,9,PM10,44
+"Borivali East, Mumbai - MPCB",2025-07-22,15:00:00,21,30,NA,3,NA,1,7,4,22,PM10,30
+"Worli, Mumbai - MPCB",2025-07-22,15:00:00,60,60,NA,7,NA,1,20,9,20,PM2.5,60
+"Colaba, Mumbai - MPCB",2025-07-22,15:00:00,17,41,NA,22,NA,3,NA,22,10,PM10,41
+"Navy Nagar-Colaba, Mumbai - IITM",2025-07-22,15:00:00,25,41,NA,17,NA,4,9,32,16,PM10,41
+"Khindipada-Bhandup West, Mumbai - IITM",2025-07-22,15:00:00,NA,18,NA,24,NA,2,8,18,21,NO2,24
+"Kandivali East, Mumbai - MPCB",2025-07-22,15:00:00,34,41,NA,8,NA,1,NA,32,NA,PM10,41
+"Siddharth Nagar-Worli, Mumbai - IITM",2025-07-22,15:00:00,23,24,NA,42,NA,8,NA,33,20,NO2,42
+"Kherwadi_Bandra East, Mumbai - MPCB",2025-07-22,15:00:00,21,32,NA,17,NA,6,3,19,22,PM10,32
+"Shivaji Nagar, Mumbai - BMC",2025-07-22,15:00:00,32,29,NA,7,NA,2,4,27,6,PM2.5,32
