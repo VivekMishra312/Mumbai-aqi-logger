@@ -2024,3 +2024,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Byculla, Mumbai - BMC",2025-07-31,10:00:00,23,59,NA,18,NA,2,2,14,18,PM10,59
 "Byculla, Mumbai - BMC",2025-07-31,11:00:00,24,59,NA,18,NA,2,2,14,18,PM10,59
 "Byculla, Mumbai - BMC",2025-07-31,12:00:00,24,60,NA,17,NA,2,2,15,18,PM10,60
+"Byculla, Mumbai - BMC",2025-07-31,13:00:00,25,60,NA,17,NA,2,2,16,17,PM10,60
