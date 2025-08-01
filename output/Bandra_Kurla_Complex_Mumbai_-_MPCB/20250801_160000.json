@@ -5,12 +5,12 @@
   "PM2.5": 51,
   "PM10": 72,
   "NO": "NA",
-  "NO2": 18,
+  "NO2": 17,
   "NOx": "NA",
   "NH3": 16,
   "SO2": 2,
-  "CO": 24,
-  "Ozone": 21,
+  "CO": 22,
+  "Ozone": 20,
   "predominant": "PM10",
   "AQI": 72
 }

@@ -10,7 +10,7 @@
   "NH3": "NA",
   "SO2": "NA",
   "CO": 10,
-  "Ozone": "NA",
+  "Ozone": 6,
   "predominant": "NA",
   "AQI": "NA"
 }

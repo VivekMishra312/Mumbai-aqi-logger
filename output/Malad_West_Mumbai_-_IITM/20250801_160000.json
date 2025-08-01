@@ -5,11 +5,11 @@
   "PM2.5": 39,
   "PM10": 90,
   "NO": "NA",
-  "NO2": 41,
+  "NO2": 40,
   "NOx": "NA",
   "NH3": 8,
   "SO2": 6,
-  "CO": 8,
+  "CO": 9,
   "Ozone": 14,
   "predominant": "PM10",
   "AQI": 90
