@@ -2076,3 +2076,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Kandivali East, Mumbai - MPCB",2025-08-01,13:00:00,30,67,NA,10,NA,1,NA,28,NA,PM10,67
 "Kandivali East, Mumbai - MPCB",2025-08-01,14:00:00,30,66,NA,10,NA,1,NA,28,NA,PM10,66
 "Kandivali East, Mumbai - MPCB",2025-08-01,15:00:00,30,NA,NA,10,NA,1,NA,28,NA,PM2.5,30
+"Kandivali East, Mumbai - MPCB",2025-08-01,16:00:00,31,NA,NA,10,NA,1,NA,28,NA,PM2.5,31
