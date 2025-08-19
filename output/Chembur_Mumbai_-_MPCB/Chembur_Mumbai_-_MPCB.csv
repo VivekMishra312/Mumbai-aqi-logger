@@ -2540,3 +2540,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Chembur, Mumbai - MPCB",2025-08-19,17:00:00,10,26,NA,19,NA,6,2,44,26,CO,44
 "Chembur, Mumbai - MPCB",2025-08-19,18:00:00,10,26,NA,18,NA,6,2,44,27,CO,44
 "Chembur, Mumbai - MPCB",2025-08-19,19:00:00,10,27,NA,18,NA,6,2,34,28,CO,34
+"Chembur, Mumbai - MPCB",2025-08-19,20:00:00,10,27,NA,18,NA,6,2,27,28,OZONE,28
