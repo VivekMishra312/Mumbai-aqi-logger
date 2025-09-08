@@ -2653,3 +2653,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Shivaji Nagar, Mumbai - BMC",2025-09-09,00:00:00,45,84,NA,36,NA,3,13,32,4,PM10,84
 "Shivaji Nagar, Mumbai - BMC",2025-09-09,01:00:00,46,86,NA,36,NA,3,13,34,3,PM10,86
 "Shivaji Nagar, Mumbai - BMC",2025-09-09,02:00:00,46,88,NA,35,NA,3,13,33,2,PM10,88
+"Shivaji Nagar, Mumbai - BMC",2025-09-09,03:00:00,46,91,NA,35,NA,3,13,32,1,PM10,91
