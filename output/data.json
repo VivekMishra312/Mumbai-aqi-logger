@@ -1,12 +1,12 @@
 {
-  "last_updated": "2025-09-11T09:47:08",
+  "last_updated": "2025-09-11T10:44:07",
   "data": [
     {
       "location": "Kurla, Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": 78,
-      "PM10": 95,
+      "PM10": 96,
       "NO": "NA",
       "NO2": 4,
       "NOx": "NA",
@@ -15,12 +15,12 @@
       "CO": 7,
       "Ozone": 28,
       "predominant": "PM10",
-      "AQI": 95
+      "AQI": 96
     },
     {
       "location": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": 45,
       "PM10": 78,
       "NO": "NA",
@@ -36,7 +36,7 @@
     {
       "location": "Vile Parle West, Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": "NA",
       "PM10": "NA",
       "NO": "NA",
@@ -52,7 +52,7 @@
     {
       "location": "Borivali East, Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": 25,
       "PM10": 20,
       "NO": "NA",
@@ -68,7 +68,7 @@
     {
       "location": "Worli, Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": "NA",
       "PM10": "NA",
       "NO": "NA",
@@ -84,7 +84,7 @@
     {
       "location": "Colaba, Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": "NA",
       "PM10": "NA",
       "NO": "NA",
@@ -100,8 +100,8 @@
     {
       "location": "Mazgaon, Mumbai - IITM",
       "date": "2025-09-11",
-      "time": "09:00:00",
-      "PM2.5": 31,
+      "time": "10:00:00",
+      "PM2.5": 30,
       "PM10": 55,
       "NO": "NA",
       "NO2": 32,
@@ -116,7 +116,7 @@
     {
       "location": "Bandra Kurla Complex, Mumbai - IITM",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": "NA",
       "PM10": 101,
       "NO": "NA",
@@ -132,8 +132,8 @@
     {
       "location": "Borivali East, Mumbai - IITM",
       "date": "2025-09-11",
-      "time": "09:00:00",
-      "PM2.5": 36,
+      "time": "10:00:00",
+      "PM2.5": 35,
       "PM10": 81,
       "NO": "NA",
       "NO2": 39,
@@ -148,9 +148,9 @@
     {
       "location": "Malad West, Mumbai - IITM",
       "date": "2025-09-11",
-      "time": "09:00:00",
-      "PM2.5": 14,
-      "PM10": 71,
+      "time": "10:00:00",
+      "PM2.5": 13,
+      "PM10": 70,
       "NO": "NA",
       "NO2": 50,
       "NOx": "NA",
@@ -159,14 +159,14 @@
       "CO": 3,
       "Ozone": 8,
       "predominant": "PM10",
-      "AQI": 71
+      "AQI": 70
     },
     {
       "location": "Navy Nagar-Colaba, Mumbai - IITM",
       "date": "2025-09-11",
-      "time": "09:00:00",
-      "PM2.5": 61,
-      "PM10": 86,
+      "time": "10:00:00",
+      "PM2.5": 60,
+      "PM10": 85,
       "NO": "NA",
       "NO2": 22,
       "NOx": "NA",
@@ -175,14 +175,14 @@
       "CO": 39,
       "Ozone": 12,
       "predominant": "PM10",
-      "AQI": 86
+      "AQI": 85
     },
     {
       "location": "Chakala-Andheri East, Mumbai - IITM",
       "date": "2025-09-11",
-      "time": "09:00:00",
-      "PM2.5": 37,
-      "PM10": 89,
+      "time": "10:00:00",
+      "PM2.5": 36,
+      "PM10": 88,
       "NO": "NA",
       "NO2": 6,
       "NOx": "NA",
@@ -191,12 +191,12 @@
       "CO": 28,
       "Ozone": 4,
       "predominant": "PM10",
-      "AQI": 89
+      "AQI": 88
     },
     {
       "location": "Khindipada-Bhandup West, Mumbai - IITM",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": "NA",
       "PM10": "NA",
       "NO": "NA",
@@ -212,9 +212,9 @@
     {
       "location": "Kandivali East, Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": 30,
-      "PM10": 66,
+      "PM10": 67,
       "NO": "NA",
       "NO2": 8,
       "NOx": "NA",
@@ -223,14 +223,14 @@
       "CO": "NA",
       "Ozone": "NA",
       "predominant": "PM10",
-      "AQI": 66
+      "AQI": 67
     },
     {
       "location": "Siddharth Nagar-Worli, Mumbai - IITM",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": "NA",
-      "PM10": 65,
+      "PM10": 64,
       "NO": "NA",
       "NO2": 25,
       "NOx": "NA",
@@ -244,8 +244,8 @@
     {
       "location": "Bandra Kurla Complex, Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
-      "PM2.5": 38,
+      "time": "10:00:00",
+      "PM2.5": 37,
       "PM10": 99,
       "NO": "NA",
       "NO2": 18,
@@ -260,7 +260,7 @@
     {
       "location": "Chembur, Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": 72,
       "PM10": 58,
       "NO": "NA",
@@ -276,9 +276,9 @@
     {
       "location": "Kherwadi_Bandra East, Mumbai - MPCB",
       "date": "2025-09-11",
-      "time": "09:00:00",
-      "PM2.5": 28,
-      "PM10": 61,
+      "time": "10:00:00",
+      "PM2.5": 27,
+      "PM10": 58,
       "NO": "NA",
       "NO2": 16,
       "NOx": "NA",
@@ -287,14 +287,14 @@
       "CO": 19,
       "Ozone": 8,
       "predominant": "PM10",
-      "AQI": 61
+      "AQI": 58
     },
     {
       "location": "Byculla, Mumbai - BMC",
       "date": "2025-09-11",
-      "time": "09:00:00",
-      "PM2.5": 37,
-      "PM10": 48,
+      "time": "10:00:00",
+      "PM2.5": 36,
+      "PM10": 47,
       "NO": "NA",
       "NO2": 12,
       "NOx": "NA",
@@ -303,14 +303,14 @@
       "CO": 4,
       "Ozone": 14,
       "predominant": "PM10",
-      "AQI": 48
+      "AQI": 47
     },
     {
       "location": "Shivaji Nagar, Mumbai - BMC",
       "date": "2025-09-11",
-      "time": "09:00:00",
+      "time": "10:00:00",
       "PM2.5": 54,
-      "PM10": 84,
+      "PM10": 85,
       "NO": "NA",
       "NO2": 39,
       "NOx": "NA",
@@ -319,7 +319,7 @@
       "CO": 19,
       "Ozone": 1,
       "predominant": "PM10",
-      "AQI": 84
+      "AQI": 85
     }
   ]
 }
