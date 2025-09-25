@@ -1,1 +1,19 @@
 location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
+"Kurla, Mumbai - MPCB",2025-09-25,12:00:00,56,67,NA,5,NA,1,37,11,29,PM10,67
+"Powai, Mumbai - MPCB",2025-09-25,12:00:00,24,36,NA,8,NA,2,15,24,9,PM10,36
+"Borivali East, Mumbai - MPCB",2025-09-25,12:00:00,16,NA,NA,3,NA,1,4,2,NA,PM2.5,16
+"Worli, Mumbai - MPCB",2025-09-25,12:00:00,59,59,NA,7,NA,1,20,9,20,PM2.5,59
+"Mazgaon, Mumbai - IITM",2025-09-25,12:00:00,NA,NA,NA,NA,NA,NA,NA,59,17,NA,NA
+"Bandra Kurla Complex, Mumbai - IITM",2025-09-25,12:00:00,26,55,NA,61,NA,26,2,40,2,NO2,61
+"Borivali East, Mumbai - IITM",2025-09-25,12:00:00,26,45,NA,NA,NA,NA,NA,35,7,PM10,45
+"Malad West, Mumbai - IITM",2025-09-25,12:00:00,19,51,NA,NA,NA,NA,5,15,3,PM10,51
+"Navy Nagar-Colaba, Mumbai - IITM",2025-09-25,12:00:00,38,56,NA,29,NA,5,8,14,8,PM10,56
+"Chakala-Andheri East, Mumbai - IITM",2025-09-25,12:00:00,17,41,NA,33,NA,9,22,7,7,PM10,41
+"Khindipada-Bhandup West, Mumbai - IITM",2025-09-25,12:00:00,NA,24,NA,9,NA,4,6,71,5,CO,71
+"Kandivali East, Mumbai - MPCB",2025-09-25,12:00:00,30,NA,NA,7,NA,1,NA,NA,NA,PM2.5,30
+"Siddharth Nagar-Worli, Mumbai - IITM",2025-09-25,12:00:00,15,30,NA,52,NA,6,NA,38,5,NO2,52
+"Bandra Kurla Complex, Mumbai - MPCB",2025-09-25,12:00:00,25,33,NA,18,NA,14,5,15,10,PM10,33
+"Chembur, Mumbai - MPCB",2025-09-25,12:00:00,27,38,NA,15,NA,6,5,23,4,PM10,38
+"Kherwadi_Bandra East, Mumbai - MPCB",2025-09-25,12:00:00,22,38,NA,NA,NA,16,3,19,10,PM10,38
+"Byculla, Mumbai - BMC",2025-09-25,12:00:00,15,28,NA,14,NA,5,10,11,10,PM10,28
+"Shivaji Nagar, Mumbai - BMC",2025-09-25,12:00:00,31,65,NA,36,NA,3,13,8,2,PM10,65
