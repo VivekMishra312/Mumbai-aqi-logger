@@ -4146,3 +4146,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Malad West, Mumbai - IITM",2025-10-26,06:00:00,10,66,NA,62,NA,6,7,35,6,PM10,66
 "Malad West, Mumbai - IITM",2025-10-26,08:00:00,9,65,NA,62,NA,6,7,33,7,PM10,65
 "Malad West, Mumbai - IITM",2025-10-26,09:00:00,9,65,NA,62,NA,6,7,32,8,PM10,65
+"Malad West, Mumbai - IITM",2025-10-26,10:00:00,8,64,NA,63,NA,6,7,32,10,PM10,64
