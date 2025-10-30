@@ -3755,3 +3755,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Bandra Kurla Complex, Mumbai - IITM",2025-10-30,14:00:00,51,81,NA,27,NA,19,4,37,3,PM10,81
 "Bandra Kurla Complex, Mumbai - IITM",2025-10-30,15:00:00,51,82,NA,27,NA,19,4,38,6,PM10,82
 "Bandra Kurla Complex, Mumbai - IITM",2025-10-30,16:00:00,51,82,NA,27,NA,19,4,37,9,PM10,82
+"Bandra Kurla Complex, Mumbai - IITM",2025-10-30,17:00:00,51,82,NA,27,NA,19,4,36,11,PM10,82
