@@ -4054,3 +4054,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Mazgaon, Mumbai - IITM",2025-11-05,06:00:00,41,39,NA,NA,NA,NA,9,76,39,CO,76
 "Mazgaon, Mumbai - IITM",2025-11-05,08:00:00,41,40,NA,NA,NA,NA,9,74,34,CO,74
 "Mazgaon, Mumbai - IITM",2025-11-05,09:00:00,42,41,NA,NA,NA,NA,9,73,32,CO,73
+"Mazgaon, Mumbai - IITM",2025-11-05,10:00:00,43,42,NA,NA,NA,NA,9,74,32,CO,74
