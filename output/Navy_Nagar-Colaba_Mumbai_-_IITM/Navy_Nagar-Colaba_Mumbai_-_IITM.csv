@@ -4532,3 +4532,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Navy Nagar-Colaba, Mumbai - IITM",2025-11-14,20:00:00,247,154,NA,104,NA,6,24,34,124,PM2.5,247
 "Navy Nagar-Colaba, Mumbai - IITM",2025-11-14,21:00:00,249,153,NA,103,NA,6,24,35,134,PM2.5,249
 "Navy Nagar-Colaba, Mumbai - IITM",2025-11-14,22:00:00,249,153,NA,103,NA,6,24,36,134,PM2.5,249
+"Navy Nagar-Colaba, Mumbai - IITM",2025-11-14,23:00:00,251,153,NA,99,NA,6,24,38,136,PM2.5,251
