@@ -4504,3 +4504,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Borivali East, Mumbai - IITM",2025-11-16,22:00:00,134,147,NA,62,NA,5,NA,25,78,PM10,147
 "Borivali East, Mumbai - IITM",2025-11-16,23:00:00,135,149,NA,63,NA,5,NA,31,63,PM10,149
 "Borivali East, Mumbai - IITM",2025-11-17,00:00:00,139,150,NA,63,NA,5,NA,31,63,PM10,150
+"Borivali East, Mumbai - IITM",2025-11-17,01:00:00,139,152,NA,64,NA,5,NA,36,54,PM10,152
