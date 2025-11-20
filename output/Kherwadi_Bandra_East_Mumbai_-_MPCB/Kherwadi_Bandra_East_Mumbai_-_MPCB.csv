@@ -4713,3 +4713,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Kherwadi_Bandra East, Mumbai - MPCB",2025-11-20,22:00:00,110,134,NA,38,NA,13,3,27,41,PM10,134
 "Kherwadi_Bandra East, Mumbai - MPCB",2025-11-20,23:00:00,110,135,NA,38,NA,13,3,30,41,PM10,135
 "Kherwadi_Bandra East, Mumbai - MPCB",2025-11-21,00:00:00,111,135,NA,38,NA,13,3,35,26,PM10,135
+"Kherwadi_Bandra East, Mumbai - MPCB",2025-11-21,01:00:00,112,135,NA,38,NA,13,3,39,16,PM10,135
