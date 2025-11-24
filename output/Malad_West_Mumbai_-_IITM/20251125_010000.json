@@ -1,0 +1,16 @@
+{
+  "location": "Malad West, Mumbai - IITM",
+  "date": "2025-11-25",
+  "time": "01:00:00",
+  "PM2.5": 176,
+  "PM10": 207,
+  "NO": "NA",
+  "NO2": 80,
+  "NOx": "NA",
+  "NH3": 10,
+  "SO2": 4,
+  "CO": 62,
+  "Ozone": 122,
+  "predominant": "PM10",
+  "AQI": 207
+}
