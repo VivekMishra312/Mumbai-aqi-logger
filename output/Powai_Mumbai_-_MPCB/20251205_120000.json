@@ -1,0 +1,16 @@
+{
+  "location": "Powai, Mumbai - MPCB",
+  "date": "2025-12-05",
+  "time": "12:00:00",
+  "PM2.5": 64,
+  "PM10": 84,
+  "NO": "NA",
+  "NO2": 8,
+  "NOx": "NA",
+  "NH3": 2,
+  "SO2": 28,
+  "CO": 15,
+  "Ozone": 9,
+  "predominant": "PM10",
+  "AQI": 84
+}
