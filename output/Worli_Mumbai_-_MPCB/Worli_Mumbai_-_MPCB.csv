@@ -4739,3 +4739,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Worli, Mumbai - MPCB",2025-12-05,06:00:00,75,NA,NA,8,NA,1,21,7,20,PM2.5,75
 "Worli, Mumbai - MPCB",2025-12-05,08:00:00,75,NA,NA,8,NA,1,21,8,20,PM2.5,75
 "Worli, Mumbai - MPCB",2025-12-05,09:00:00,75,NA,NA,8,NA,1,20,9,20,PM2.5,75
+"Worli, Mumbai - MPCB",2025-12-05,10:00:00,75,NA,NA,8,NA,1,20,11,20,PM2.5,75
