@@ -1,0 +1,16 @@
+{
+  "location": "Shivaji Nagar, Mumbai - BMC",
+  "date": "2025-12-23",
+  "time": "09:00:00",
+  "PM2.5": 115,
+  "PM10": 127,
+  "NO": "NA",
+  "NO2": 62,
+  "NOx": "NA",
+  "NH3": 4,
+  "SO2": 19,
+  "CO": 15,
+  "Ozone": 9,
+  "predominant": "PM10",
+  "AQI": 127
+}
