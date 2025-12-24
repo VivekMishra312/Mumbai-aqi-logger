@@ -4488,3 +4488,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Borivali East, Mumbai - MPCB",2025-12-24,10:00:00,58,67,NA,NA,NA,5,18,18,33,PM10,67
 "Borivali East, Mumbai - MPCB",2025-12-24,11:00:00,55,65,NA,NA,NA,5,18,18,33,PM10,65
 "Borivali East, Mumbai - MPCB",2025-12-24,12:00:00,54,64,NA,NA,NA,5,18,18,34,PM10,64
+"Borivali East, Mumbai - MPCB",2025-12-24,13:00:00,53,62,NA,NA,NA,5,18,18,34,PM10,62
