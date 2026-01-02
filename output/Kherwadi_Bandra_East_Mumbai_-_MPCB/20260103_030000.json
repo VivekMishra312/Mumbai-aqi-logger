@@ -1,0 +1,16 @@
+{
+  "location": "Kherwadi_Bandra East, Mumbai - MPCB",
+  "date": "2026-01-03",
+  "time": "03:00:00",
+  "PM2.5": 89,
+  "PM10": 95,
+  "NO": "NA",
+  "NO2": 25,
+  "NOx": "NA",
+  "NH3": 11,
+  "SO2": 3,
+  "CO": 17,
+  "Ozone": 15,
+  "predominant": "PM10",
+  "AQI": 95
+}
