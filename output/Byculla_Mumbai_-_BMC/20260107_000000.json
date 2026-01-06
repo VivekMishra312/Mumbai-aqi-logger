@@ -1,0 +1,16 @@
+{
+  "location": "Byculla, Mumbai - BMC",
+  "date": "2026-01-07",
+  "time": "00:00:00",
+  "PM2.5": 160,
+  "PM10": 119,
+  "NO": "NA",
+  "NO2": 87,
+  "NOx": "NA",
+  "NH3": 19,
+  "SO2": 25,
+  "CO": 47,
+  "Ozone": 29,
+  "predominant": "PM2.5",
+  "AQI": 160
+}
