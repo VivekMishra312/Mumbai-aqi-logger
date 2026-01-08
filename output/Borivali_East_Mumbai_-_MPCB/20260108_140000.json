@@ -1,0 +1,16 @@
+{
+  "location": "Borivali East, Mumbai - MPCB",
+  "date": "2026-01-08",
+  "time": "14:00:00",
+  "PM2.5": 45,
+  "PM10": 81,
+  "NO": "NA",
+  "NO2": "NA",
+  "NOx": "NA",
+  "NH3": 6,
+  "SO2": 15,
+  "CO": 14,
+  "Ozone": 25,
+  "predominant": "PM10",
+  "AQI": 81
+}
