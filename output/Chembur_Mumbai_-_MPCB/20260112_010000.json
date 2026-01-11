@@ -1,0 +1,16 @@
+{
+  "location": "Chembur, Mumbai - MPCB",
+  "date": "2026-01-12",
+  "time": "01:00:00",
+  "PM2.5": 53,
+  "PM10": 107,
+  "NO": "NA",
+  "NO2": 54,
+  "NOx": "NA",
+  "NH3": 15,
+  "SO2": 12,
+  "CO": 66,
+  "Ozone": 31,
+  "predominant": "PM10",
+  "AQI": 107
+}
