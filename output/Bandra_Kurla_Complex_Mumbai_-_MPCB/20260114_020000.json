@@ -1,0 +1,16 @@
+{
+  "location": "Bandra Kurla Complex, Mumbai - MPCB",
+  "date": "2026-01-14",
+  "time": "02:00:00",
+  "PM2.5": 196,
+  "PM10": 191,
+  "NO": "NA",
+  "NO2": 80,
+  "NOx": "NA",
+  "NH3": 9,
+  "SO2": 7,
+  "CO": 15,
+  "Ozone": 16,
+  "predominant": "PM2.5",
+  "AQI": 196
+}
