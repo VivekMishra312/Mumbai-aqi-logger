@@ -1,0 +1,16 @@
+{
+  "location": "Kandivali East, Mumbai - MPCB",
+  "date": "2026-01-22",
+  "time": "19:00:00",
+  "PM2.5": 15,
+  "PM10": 118,
+  "NO": "NA",
+  "NO2": 30,
+  "NOx": "NA",
+  "NH3": 3,
+  "SO2": "NA",
+  "CO": "NA",
+  "Ozone": "NA",
+  "predominant": "PM10",
+  "AQI": 118
+}
