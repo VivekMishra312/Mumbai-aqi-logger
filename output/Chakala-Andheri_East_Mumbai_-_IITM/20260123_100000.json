@@ -1,0 +1,16 @@
+{
+  "location": "Chakala-Andheri East, Mumbai - IITM",
+  "date": "2026-01-23",
+  "time": "10:00:00",
+  "PM2.5": 132,
+  "PM10": 119,
+  "NO": "NA",
+  "NO2": 75,
+  "NOx": "NA",
+  "NH3": 16,
+  "SO2": "NA",
+  "CO": 20,
+  "Ozone": 41,
+  "predominant": "PM2.5",
+  "AQI": 132
+}
