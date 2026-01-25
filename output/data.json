@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-01-25T18:58:44",
+  "last_updated": "2026-01-25T19:44:54",
   "data": [
     {
       "location": "Kurla, Mumbai - MPCB",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 111,
-      "PM10": 118,
+      "PM10": 120,
       "NO": "NA",
       "NO2": 6,
       "NOx": "NA",
@@ -15,12 +15,12 @@
       "CO": 14,
       "Ozone": 28,
       "predominant": "PM10",
-      "AQI": 118
+      "AQI": 120
     },
     {
       "location": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 118,
       "PM10": 113,
       "NO": "NA",
@@ -36,8 +36,8 @@
     {
       "location": "Vile Parle West, Mumbai - MPCB",
       "date": "2026-01-25",
-      "time": "18:00:00",
-      "PM2.5": 65,
+      "time": "19:00:00",
+      "PM2.5": 66,
       "PM10": 98,
       "NO": "NA",
       "NO2": 11,
@@ -52,7 +52,7 @@
     {
       "location": "Borivali East, Mumbai - MPCB",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 39,
       "PM10": 72,
       "NO": "NA",
@@ -68,9 +68,9 @@
     {
       "location": "Colaba, Mumbai - MPCB",
       "date": "2026-01-25",
-      "time": "18:00:00",
-      "PM2.5": 73,
-      "PM10": 85,
+      "time": "19:00:00",
+      "PM2.5": 74,
+      "PM10": 86,
       "NO": "NA",
       "NO2": "NA",
       "NOx": "NA",
@@ -79,14 +79,14 @@
       "CO": 64,
       "Ozone": 11,
       "predominant": "PM10",
-      "AQI": 85
+      "AQI": 86
     },
     {
       "location": "Mazgaon, Mumbai - IITM",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 83,
-      "PM10": 96,
+      "PM10": 97,
       "NO": "NA",
       "NO2": 80,
       "NOx": "NA",
@@ -95,14 +95,14 @@
       "CO": 17,
       "Ozone": 74,
       "predominant": "PM10",
-      "AQI": 96
+      "AQI": 97
     },
     {
       "location": "Bandra Kurla Complex, Mumbai - IITM",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 106,
-      "PM10": 120,
+      "PM10": 121,
       "NO": "NA",
       "NO2": "NA",
       "NOx": "NA",
@@ -111,12 +111,12 @@
       "CO": 30,
       "Ozone": 42,
       "predominant": "PM10",
-      "AQI": 120
+      "AQI": 121
     },
     {
       "location": "Borivali East, Mumbai - IITM",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 85,
       "PM10": 113,
       "NO": "NA",
@@ -132,7 +132,7 @@
     {
       "location": "Malad West, Mumbai - IITM",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 57,
       "PM10": 114,
       "NO": "NA",
@@ -148,9 +148,9 @@
     {
       "location": "Navy Nagar-Colaba, Mumbai - IITM",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 113,
-      "PM10": 118,
+      "PM10": 120,
       "NO": "NA",
       "NO2": 95,
       "NOx": "NA",
@@ -159,14 +159,14 @@
       "CO": 42,
       "Ozone": 63,
       "predominant": "PM10",
-      "AQI": 118
+      "AQI": 120
     },
     {
       "location": "Chakala-Andheri East, Mumbai - IITM",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 105,
-      "PM10": 116,
+      "PM10": 118,
       "NO": "NA",
       "NO2": 79,
       "NOx": "NA",
@@ -175,12 +175,12 @@
       "CO": 9,
       "Ozone": 60,
       "predominant": "PM10",
-      "AQI": 116
+      "AQI": 118
     },
     {
       "location": "Khindipada-Bhandup West, Mumbai - IITM",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": "NA",
       "PM10": 88,
       "NO": "NA",
@@ -196,9 +196,9 @@
     {
       "location": "Kandivali East, Mumbai - MPCB",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 24,
-      "PM10": 117,
+      "PM10": 116,
       "NO": "NA",
       "NO2": 30,
       "NOx": "NA",
@@ -207,12 +207,12 @@
       "CO": 20,
       "Ozone": 18,
       "predominant": "PM10",
-      "AQI": 117
+      "AQI": 116
     },
     {
       "location": "Siddharth Nagar-Worli, Mumbai - IITM",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 70,
       "PM10": 74,
       "NO": "NA",
@@ -228,7 +228,7 @@
     {
       "location": "Bandra Kurla Complex, Mumbai - MPCB",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 77,
       "PM10": 113,
       "NO": "NA",
@@ -244,9 +244,9 @@
     {
       "location": "Chembur, Mumbai - MPCB",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 68,
-      "PM10": 102,
+      "PM10": 103,
       "NO": "NA",
       "NO2": 50,
       "NOx": "NA",
@@ -255,14 +255,14 @@
       "CO": 35,
       "Ozone": 63,
       "predominant": "PM10",
-      "AQI": 102
+      "AQI": 103
     },
     {
       "location": "Kherwadi_Bandra East, Mumbai - MPCB",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 68,
-      "PM10": 98,
+      "PM10": 99,
       "NO": "NA",
       "NO2": 25,
       "NOx": "NA",
@@ -271,14 +271,14 @@
       "CO": 15,
       "Ozone": 52,
       "predominant": "PM10",
-      "AQI": 98
+      "AQI": 99
     },
     {
       "location": "Byculla, Mumbai - BMC",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 84,
-      "PM10": 88,
+      "PM10": 89,
       "NO": "NA",
       "NO2": 78,
       "NOx": "NA",
@@ -287,12 +287,12 @@
       "CO": 54,
       "Ozone": 32,
       "predominant": "PM10",
-      "AQI": 88
+      "AQI": 89
     },
     {
       "location": "Shivaji Nagar, Mumbai - BMC",
       "date": "2026-01-25",
-      "time": "18:00:00",
+      "time": "19:00:00",
       "PM2.5": 59,
       "PM10": 113,
       "NO": "NA",
