@@ -1,0 +1,16 @@
+{
+  "location": "Siddharth Nagar-Worli, Mumbai - IITM",
+  "date": "2026-01-25",
+  "time": "10:00:00",
+  "PM2.5": 62,
+  "PM10": 65,
+  "NO": "NA",
+  "NO2": 70,
+  "NOx": "NA",
+  "NH3": 7,
+  "SO2": "NA",
+  "CO": 62,
+  "Ozone": 32,
+  "predominant": "NO2",
+  "AQI": 70
+}
