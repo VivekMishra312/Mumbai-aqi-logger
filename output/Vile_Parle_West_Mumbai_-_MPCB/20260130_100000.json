@@ -1,0 +1,16 @@
+{
+  "location": "Vile Parle West, Mumbai - MPCB",
+  "date": "2026-01-30",
+  "time": "10:00:00",
+  "PM2.5": 75,
+  "PM10": 107,
+  "NO": "NA",
+  "NO2": 11,
+  "NOx": "NA",
+  "NH3": 6,
+  "SO2": 50,
+  "CO": 103,
+  "Ozone": "NA",
+  "predominant": "PM10",
+  "AQI": 107
+}
