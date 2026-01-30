@@ -1,0 +1,16 @@
+{
+  "location": "Navy Nagar-Colaba, Mumbai - IITM",
+  "date": "2026-01-31",
+  "time": "02:00:00",
+  "PM2.5": 121,
+  "PM10": 132,
+  "NO": "NA",
+  "NO2": 78,
+  "NOx": "NA",
+  "NH3": 7,
+  "SO2": 22,
+  "CO": 45,
+  "Ozone": 50,
+  "predominant": "PM10",
+  "AQI": 132
+}
