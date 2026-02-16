@@ -6472,3 +6472,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Bandra Kurla Complex, Mumbai - MPCB",2026-02-16,22:00:00,110,125,NA,71,NA,8,11,11,46,PM10,125
 "Bandra Kurla Complex, Mumbai - MPCB",2026-02-16,23:00:00,109,124,NA,71,NA,8,12,11,39,PM10,124
 "Bandra Kurla Complex, Mumbai - MPCB",2026-02-17,00:00:00,109,127,NA,70,NA,9,12,11,33,PM10,127
+"Bandra Kurla Complex, Mumbai - MPCB",2026-02-17,01:00:00,109,129,NA,69,NA,9,12,11,24,PM10,129
