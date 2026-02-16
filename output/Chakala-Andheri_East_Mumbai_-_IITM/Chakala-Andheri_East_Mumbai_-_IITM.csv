@@ -6330,3 +6330,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Chakala-Andheri East, Mumbai - IITM",2026-02-16,02:00:00,136,140,NA,79,NA,26,21,57,18,PM10,140
 "Chakala-Andheri East, Mumbai - IITM",2026-02-16,03:00:00,136,139,NA,79,NA,26,21,65,14,PM10,139
 "Chakala-Andheri East, Mumbai - IITM",2026-02-16,04:00:00,136,138,NA,79,NA,25,20,67,6,PM10,138
+"Chakala-Andheri East, Mumbai - IITM",2026-02-16,06:00:00,130,136,NA,79,NA,23,20,60,3,PM10,136
