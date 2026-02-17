@@ -1,2 +1,3 @@
 location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Worli, Mumbai -MPCB",2026-02-17,15:00:00,98,134,NA,44,NA,4,NA,13,86,PM10,134
+"Worli, Mumbai -MPCB",2026-02-17,16:00:00,97,133,NA,44,NA,4,NA,13,193,OZONE,193
