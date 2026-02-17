@@ -1,0 +1,16 @@
+{
+  "location": "Colaba, Mumbai - MPCB",
+  "date": "2026-02-18",
+  "time": "00:00:00",
+  "PM2.5": 41,
+  "PM10": 48,
+  "NO": "NA",
+  "NO2": "NA",
+  "NOx": "NA",
+  "NH3": "NA",
+  "SO2": "NA",
+  "CO": 61,
+  "Ozone": 11,
+  "predominant": "CO",
+  "AQI": 61
+}
