@@ -1,0 +1,16 @@
+{
+  "location": "Worli, Mumbai -MPCB",
+  "date": "2026-02-19",
+  "time": "03:00:00",
+  "PM2.5": 50,
+  "PM10": 86,
+  "NO": "NA",
+  "NO2": 33,
+  "NOx": "NA",
+  "NH3": 2,
+  "SO2": "NA",
+  "CO": 13,
+  "Ozone": 77,
+  "predominant": "PM10",
+  "AQI": 86
+}
