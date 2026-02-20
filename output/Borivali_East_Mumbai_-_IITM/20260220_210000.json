@@ -1,0 +1,16 @@
+{
+  "location": "Borivali East, Mumbai - IITM",
+  "date": "2026-02-20",
+  "time": "21:00:00",
+  "PM2.5": 130,
+  "PM10": 132,
+  "NO": "NA",
+  "NO2": 37,
+  "NOx": "NA",
+  "NH3": 10,
+  "SO2": "NA",
+  "CO": 84,
+  "Ozone": 70,
+  "predominant": "PM10",
+  "AQI": 132
+}
