@@ -1,0 +1,16 @@
+{
+  "location": "Bandra Kurla Complex, Mumbai - IITM",
+  "date": "2026-03-03",
+  "time": "03:00:00",
+  "PM2.5": 56,
+  "PM10": 98,
+  "NO": "NA",
+  "NO2": 44,
+  "NOx": "NA",
+  "NH3": 17,
+  "SO2": 4,
+  "CO": 88,
+  "Ozone": 7,
+  "predominant": "PM10",
+  "AQI": 98
+}
