@@ -6071,3 +6071,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2026-03-03,03:00:00,73,78,NA,78,NA,NA,92,NA,NA,SO2,92
 "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2026-03-03,04:00:00,82,84,NA,78,NA,NA,93,NA,NA,SO2,93
 "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2026-03-03,06:00:00,96,94,NA,79,NA,NA,93,NA,NA,PM2.5,96
+"Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB",2026-03-03,09:00:00,100,100,NA,80,NA,NA,94,NA,NA,PM2.5,100
