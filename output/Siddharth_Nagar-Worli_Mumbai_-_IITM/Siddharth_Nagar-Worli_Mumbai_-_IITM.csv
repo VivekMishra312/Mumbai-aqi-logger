@@ -6755,3 +6755,4 @@ location,date,time,PM2.5,PM10,NO,NO2,NOx,NH3,SO2,CO,Ozone,predominant,AQI
 "Siddharth Nagar-Worli, Mumbai - IITM",2026-03-06,15:00:00,67,94,NA,58,NA,3,NA,36,64,PM10,94
 "Siddharth Nagar-Worli, Mumbai - IITM",2026-03-06,16:00:00,67,93,NA,58,NA,3,NA,35,65,PM10,93
 "Siddharth Nagar-Worli, Mumbai - IITM",2026-03-06,17:00:00,66,93,NA,57,NA,3,NA,33,64,PM10,93
+"Siddharth Nagar-Worli, Mumbai - IITM",2026-03-06,18:00:00,66,93,NA,57,NA,3,NA,32,63,PM10,93
